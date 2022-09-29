@@ -1,0 +1,24 @@
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\CoincidenceIndex.exe
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\CoincidenceIndex.deps.json
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\CoincidenceIndex.runtimeconfig.json
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\CoincidenceIndex.dll
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\CoincidenceIndex.pdb
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.csproj.AssemblyReference.cache
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.AssemblyInfoInputs.cache
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.AssemblyInfo.cs
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.csproj.CoreCompileInputs.cache
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.dll
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\refint\CoincidenceIndex.dll
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.pdb
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\CoincidenceIndex.genruntimeconfig.cache
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\obj\Debug\net6.0\ref\CoincidenceIndex.dll
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\T1.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\T2.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\T3.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\T4.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\T5.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\T6.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\T7.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\data\TextoClaro.txt
+C:\Dev\PUCRS\Seguranca\CoincidenceIndex\bin\Debug\net6.0\Criptoanálise - CoincidenceIndex.pdf
